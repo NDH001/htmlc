@@ -14,7 +14,7 @@
   font-size: 14px;
   font-weight: 700;
   line-height: 20px;
-  margin-bottom: 10px;
+  color: white;
 }
 
 .video-info-grid {
@@ -36,9 +36,11 @@
 .video-stats {
   font-size: 12px;
   color: rgb(96, 96, 96);
+  display: inline;
 }
 
 .video-author {
+  margin-top: 0;
   margin-bottom: 4px;
 }
 
