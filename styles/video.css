@@ -21,9 +21,7 @@
     grid-template-columns: 1fr;
   }
 }
-.video-preview {
-  border: 2px solid rgb(29, 29, 29);
-}
+
 .thumbnail-row {
   margin-bottom: 8px;
   position: relative;
