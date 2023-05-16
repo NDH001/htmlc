@@ -1,0 +1,10 @@
+.header {
+  position: fixed;
+  height: 200px;
+
+  grid-template-columns: 200px 1fr;
+}
+
+.logo {
+  width: 100%;
+}
